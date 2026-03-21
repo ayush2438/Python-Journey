@@ -12,7 +12,7 @@ Welcome to my daily progress tracker! I am a B.Tech graduate on a mission to bec
 | Day | Topic | Key Achievement | Link |
 | :--- | :--- | :--- | :--- |
 | **Day 1** | Python Basics | Setup Git, Terminal vs Interpreter, and Loops | [Day 1 Code](./DAY1.py) |
-| **Day 2** | *Coming Soon* | ... | |
+| **Day 2** | File I/O | Read from .txt and created User Dicts | [Day 2 Code](./Day2.py) |
 
 ---
 
